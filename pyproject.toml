@@ -16,3 +16,8 @@ dependencies = [
     "sentence-transformers>=4.1.0",
     "tqdm>=4.67.1",
 ]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=6.29.5",
+]
