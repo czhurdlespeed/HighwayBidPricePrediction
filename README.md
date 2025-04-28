@@ -8,7 +8,7 @@
 
 ### Video
 
-- I have provided a video walkthrough of my repo and my thought process since there are a lot of connections/moving parts.
+- **[Video Walkthrough of Project/Repo](https://youtu.be/Qmv7ebjDKWM)**
 
 ### Checklist
 
